@@ -1,5 +1,4 @@
 # College_Website
-Created a multi - page dummy website for my previous University. 
 
 Hi Everyone,
 
